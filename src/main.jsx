@@ -1,0 +1,13 @@
+import { StrictMode } from "react";
+import ReactDOM from "react-dom/client";
+import App from "./App";
+import SettingsProvider from "@/settings/SettingsProvider";
+import "./index.css";
+
+ReactDOM.createRoot(document.getElementById("root")).render(
+  <StrictMode>
+    <SettingsProvider>
+      <App />
+    </SettingsProvider>
+  </StrictMode>
+);

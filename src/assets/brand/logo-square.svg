@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="squareTitle squareDesc">
+  <title id="squareTitle">FoodBridge AI square logo</title>
+  <desc id="squareDesc">Square logo for social preview and app tile use.</desc>
+  <rect width="256" height="256" rx="40" fill="#f0fdf4" />
+  <path d="M58 146c20-34 44-52 70-52s50 18 70 52" fill="none" stroke="#16a34a" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="72" cy="160" r="10" fill="#16a34a"/>
+  <circle cx="184" cy="160" r="10" fill="#0ea5e9"/>
+  <text x="58" y="205" font-size="42" font-family="Inter, Arial, sans-serif" font-weight="700" fill="#0f172a">FB</text>
+</svg>

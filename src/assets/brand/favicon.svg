@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="faviconTitle faviconDesc">
+  <title id="faviconTitle">FoodBridge AI favicon</title>
+  <desc id="faviconDesc">Small bridge icon for browser tabs.</desc>
+  <rect width="64" height="64" rx="12" fill="#ecfeff" />
+  <path d="M14 40c6-10 12-15 18-15s12 5 18 15" fill="none" stroke="#0ea5e9" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="17" cy="44" r="3" fill="#16a34a"/>
+  <circle cx="47" cy="44" r="3" fill="#0ea5e9"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 96" role="img" aria-labelledby="logoTitle logoDesc">
+  <title id="logoTitle">FoodBridge AI logo</title>
+  <desc id="logoDesc">A bridge icon with FoodBridge AI wordmark.</desc>
+  <defs>
+    <linearGradient id="bridgeGradient" x1="0%" x2="100%" y1="0%" y2="0%">
+      <stop offset="0%" stop-color="#16a34a" />
+      <stop offset="100%" stop-color="#0ea5e9" />
+    </linearGradient>
+  </defs>
+  <circle cx="48" cy="48" r="36" fill="#ecfdf5" />
+  <path d="M20 56c8-14 20-22 28-22s20 8 28 22" fill="none" stroke="url(#bridgeGradient)" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="26" cy="62" r="5" fill="#16a34a"/>
+  <circle cx="70" cy="62" r="5" fill="#0ea5e9"/>
+  <text x="96" y="44" font-size="26" font-family="Inter, Arial, sans-serif" font-weight="700" fill="#0f172a">FoodBridge</text>
+  <text x="96" y="68" font-size="20" font-family="Inter, Arial, sans-serif" font-weight="600" fill="#16a34a">AI</text>
+</svg>
